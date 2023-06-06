@@ -35,6 +35,7 @@ function SemesterCourseModal({ isEdit = false, data = {} }) {
         //         variant: "success"
         //     }));
         // }
+        // Nurullah Atas
         setShow(false);
     };
 
